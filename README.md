@@ -7,7 +7,7 @@
 </h1>
 
   <!-- <div id="badges">
-  <a href="https://www.linkedin.com/in/saleh-edhah/">
+  <a href="https://www.linkedin.com/in/moha">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
   
-  <a href="https://twitter.com/sloooy2020">
+  <a href="https://twitter.com/moh4crs">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     
