@@ -6,18 +6,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-  <!-- <div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/moha">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-   <a href="https://www.instagram.com/sloooy10/">
+   <!-- <a href="https://www.instagram.com/sloooy10/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a> -->
   
-  <a href="https://salehedhah.hashnode.dev/">
+  <!-- <a href="https://salehedhah.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
-  </a>
+  </a> -->
   
   <a href="https://twitter.com/moh4crs">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
