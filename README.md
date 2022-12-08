@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a> -->
   
-  <a href="https://twitter.com/moh4crs">
+  <a href="https://twitter.com/muha_dev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     
